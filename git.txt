@@ -1,0 +1,16 @@
+echo "# -ApplicationWeb-DSN_Back-End-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BIKOUMBOU/-ApplicationWeb-DSN_Back-End-.git
+git push -u origin main
+
+---------------------------------------------------------------------------------------------
+
+git remote add origin https://github.com/BIKOUMBOU/-ApplicationWeb-DSN_Back-End-.git
+git branch -M main
+git push -u origin main
+
+---------------------------------------------------------------------------------------------
+
